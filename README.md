@@ -168,11 +168,7 @@ Agentic-AI-Based-Travel-Planning-Assistant-Using-LangChain
 │   └── places.json
 │
 ├── images/
-│   ├── dashboard-home.png
-│   ├── trip-overview.png
-│   ├── travel-analytics.png
-│   ├── recommendations.png
-│   └── itinerary-ai.png
+│   ├── image.png
 │
 ├── app.py
 ├── requirements.txt
